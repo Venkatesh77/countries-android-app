@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountriesApp</string>
+    <string name="no_states">Oops, no states are found!</string>
+    <string name="countries_fragment">Countries Fragment</string>
+    <string name="provinces_fragment">Provinces Fragment</string>
+    <string name="error">Oops, Something went wrong. Please try again later</string>
+</resources>
